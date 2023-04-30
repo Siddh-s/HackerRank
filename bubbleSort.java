@@ -5,7 +5,7 @@ public class bubblesorrt {
                 if(input[j]> input[j+1]){
                     int temp = input[j];
                     input[j]= input[j+1];
-                    input[j+1]= temp;
+                    input[j+1]= temp;/*bubble sort */
                 }
             }
         }
